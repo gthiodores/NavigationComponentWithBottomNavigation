@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Navigation Component With Bottom Navigation</string>
+
+    <string name="info_cocoa_healthy_title">A. BUAH KAKAO NORMAL DAN SEHAT</string>
+    <string name="info_cocoa_healthy_content">
+	    Tanaman kakao mulai memproduksi buah pada berumur 2,5–  tahun setelah tanam dengan produksi buah kakao di
+	    tahun pertama cenderung sedikit dan akan terus meningkat seiring pertambahan umur. Kondisi Buah Kakao yang
+	    diklasifikasikan Normal dan sehat ditandai dengan buah yang tidak memiliki ciri serangan hama dan penyakit
+	    baik ciri yang terlihat pada kulit buah maupun pada biji kakao setelah dipanen.
+			Dalam melakukan budidaya Petani Kakao harus senantiasa memantau perkembangan buah kakao agar aman dari
+			serangan Hama dan Penyakit Buah serta senantiasa konsultasikan pada penyuluh Pertanian. Dalam melakukan
+			perawatan dapat memperhatikan hal-hal sebagai berikut:
+			1.	Sebisa mungkin Penyiraman 2 kali sehari (pagi dan sore) sebanyak 2-5 liter/pohon,
+			2.	Membuat lubang pupuk disekitar tanaman dengan cara dikoak. Pupuk dimasukkan dalam lubang pupuk
+					kemudian ditutup kembali. Untuk pemupukkan tanaman kakao ini bisa kita pupuk dengan pupuk kandang dan
+					di campur dengan pupuk urea/KCL, memasukkan pupuk kandang tersebut ke dalam tanah di 4 mata angin pada
+					tiap-tiap tanaman kakao dan hal ini cukup di lakukan untuk 1 tahun 1 kali saja.
+			3.	Pemangkasan yang ditujukan pada pembentukan cabang yang seimbang dan pertumbuhan vegetatif yang baik.
+					Pohon pelindung juga dilakukan pemangkasan agar percabangan dan daunnya tumbuh tinggi dan baik.
+		</string>
+    <string name="info_cocoa_pest_title">B. BUAH KAKAO TERSERANG HAMA</string>
+    <string name="info_cocoa_pest_content">
+			Pada dasarnya Buah Kakao yang terserang hama penyebabnya secara garis besar dari golongan hewan dari jenis
+			serangga, moluska, tungau, tikus, burung, atau mamalia besar. Jenis Hama Umumnya Kepik Penghisap Buah
+			Helope lt is antonii (Hemiptera: Miridae ), Hama kutu putih ( Planoc ocuscitri ), Kakao Mot atau Lalat
+			Buah (Acrocercops cranerella), Pengerek Buah Kakao (Conopomorpha cramerella).
+			Akibat dari serangan hama tersebut buah yang terserang menunjukkan bekas tusukan berupa bercak- bercak
+			hitam pada permukaan buah, pada serangan berat seluruh permukaan buah dipenuhi oleh bekas tusukan berwarna
+			hitam dan kering, kulitnya mengeras serta retak- retak, memiliki pertumbuhan yang terhambat kemudian buah
+			tersebut kering dan mati, memiliki kulit buah berwarna kuning pucat, biji tidak mengembang dan juga
+			lengket, memiliki belang kuning hijau atau kuning jingga, terdapat lubang bekas keluar larva, biji kecil
+			saling melekat dan berwarna hitam, Pada kondisi buah ranum saat buah di goyang maka tidak berbunyi.
+			Dalam penanganannya jika sudah terjadi gejala serangan seperti yang sudah disebutkan diatas, maka
+			sebaiknya segera melakukan penyemprotan pada tanaman kakao menggunakan insektisida kontak berbahan aktif
+			deltametrin.
+			Selain  itu dapat juga mencoba insektisida organik dengan menggunakan air sari daun mimba (mindi). Cara
+			lainnya juga bisa menggunakan agen hayati yang merupakan parasit alami bagi serangga helopeltis yaitu
+			jamur Beauveria Bassiana. Jamur ini jika mengenai tubuh serangga hellopetis maka akan menginfeksinya lalu
+			membunuh serangga tersebut dan tidak perlu khawatir karena jamur tersebut aman bagi manusia.
+		</string>
+    <string name="info_cocoa_ill_title">C. BUAH KAKAO TERSERANG PENYAKIT</string>
+    <string name="info_cocoa_ill_content">
+			Beberapa penyakit yang sering menyerang tanaman kakao adalah penyakit busuk buah kakao yang disebabkan
+			oleh infeksi cendawan Phythoptora palmivora pada buah, Penyakit busuk buah kakao sering menyerang tanaman
+			yang memiliki sistem kekebalan yang rentan serta ditunjang oleh keberadaan kebun yang lembab dan gelap.
+			Penyakit ini dapat menyebar dari satu buah yang terinfeksi ke buah lainnya melalui beberapa media seperti
+			sentuhan langsung antarbuah, percikan air, dibawa oleh hewan (semut atau tupai), bahkan oleh tiupan angin.
+			Penyebaran busuk buah akan semakin cepat jika kondisi kebun terlalu lembab karena cendawan Phythoptora
+			palmivora dapat tumbuh subur pada daerah yang lembab.
+			Gejala serangan penyakit busuk buah ditandai dengan timbulnya bercak-bercak hitam pada bagian kulit luar
+			buah. Bercak-bercak hitam tersebut akan meluas hingga menutupi semua bagian kulit buah jika tidak segera
+			dikendalikan. Penyakit ini dapat menyerang semua fase pertumbuhan buah, mulai dari buah pentil hingga buah
+			dalam fase kemasakan. Buah yang terserang penyakit busuk buah akan tampak hitam arang dan jika disentuh
+			akan terasa basah membusuk.
+			Untuk penanganan serangan penyakit dapat dilakukan dengan (1) Tidak menanam tanaman kakao maupun pohon
+			pelindungnya dengan jarak yang terlalu rapat agar sinar matahari bisa masuk ke dalam kebun dan menjaga
+			tingkat kelembaban udara kebun, (2) Melakukan pemangkasan cabang-cabang tanaman kakao dan pohon penaung
+			secara rutin untuk menjaga kelembaban kebun, (3) Melakukan sanitasi buah-buah yang terserang untuk
+			mencegah penyebaran penyakit ke buah yang sehat. Buah-buah yang sakit harus dimusnahkan dengan cara
+			dikubur dalam lubang sedalam minimal 1 meter, (4) Penyemprotan agen hayati seperti misalnya Trichoderma
+			spp dengan dosis 200 gram per liter sebagai upaya preventif. Penyemprotan diarahkan pada buah sehat, (5)
+			Aplikasi fungisida kontak berbahan aktif tembaga 0,3% saat tingkat serangan sudah sangat tinggi. Selain
+			itu dalam usaha agar budidaya tanaman kakao yang dilakukan dapat tahan terhadap busuk buah, maka sedari
+			awal dapat menggunakan klon unggul yang tahan penyakit busuk buah kakao seperti DRC 16, ICS 6, DR 1 x Sca
+			12, DRC 16 x Sca 6 atau DRC 16 x Sca 12.
+		</string>
+</resources>

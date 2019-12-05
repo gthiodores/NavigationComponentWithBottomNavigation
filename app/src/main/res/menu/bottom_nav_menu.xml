@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Home" />
+    <item
+        android:id="@+id/deteksiFragment"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Deteksi Dini" />
+    <item
+        android:id="@+id/informasiFragment"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="Informasi" />
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="About" />
+</menu>
